@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yuroolalil.natsharpe.com/sitemap.xml
